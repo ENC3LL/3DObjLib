@@ -4,6 +4,8 @@
 
 A lightweight, header-only C++20 ray tracing library for creating and rendering 3D scenes. Built from scratch using modern C++ templates, concepts, and a clean fluent API — no engine required.
 
+<img width="775" height="365" alt="image" src="https://github.com/user-attachments/assets/92bb3ede-e7c6-498a-9b67-d92a69340721" />
+
 ---
 
 ## ✨ Features
