@@ -1,0 +1,5 @@
+vcpkg/
+Math/*.exe
+Math/*.ilk
+Math/*.pdb
+Math/*.obj
