@@ -128,7 +128,6 @@ int main() {
 - [ ] Roughness-based reflection blur
 - [ ] Camera controls
 - [ ] Physics simulation layer
-- [ ] Output to PNG/PPM file
 
 ---
 
